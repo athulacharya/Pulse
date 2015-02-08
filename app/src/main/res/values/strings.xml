@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Pulse -->
+    <string name="app_name">Pulse</string>
+    <string name="button_beat">Beat</string>
+    <string name="blank_bpm">--</string>
+
+    <!-- Pulse Actions -->
+    <string name="action_clear">Clear</string>
+    <string name="action_save">Save</string>
+    <string name="action_view_list">View Saved Vitals</string>
+    <string name="action_help">Help</string>
+
+    <!-- Vitals List -->
+    <string name="title_activity_view_vitals">Vitals List</string>
+
+</resources>

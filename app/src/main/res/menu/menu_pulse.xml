@@ -1,0 +1,27 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Pulse">
+
+    <item
+        android:id="@+id/action_clear"
+        android:title="@string/action_clear"
+        android:icon="@drawable/ic_action_discard"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_save"
+        android:title="@string/action_save"
+        android:icon="@drawable/ic_action_accept"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_view_list"
+        android:title="@string/action_view_list"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/action_help"
+        android:showAsAction="never" />
+</menu>
